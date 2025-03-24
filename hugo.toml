@@ -1,6 +1,16 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'BERNARDO SALAZAR'
-theme = "hyde"
+baseURL = "https://salazr.co"
+languageCode = "en-us"
+title = "BERNARDO SALAZAR"
+
 [params]
   description = "Software Engineer"
+
+[author]
+    name = "Bernardo Salazar"
+    homepage = "http://salazr.co"
+
+[menus]
+  main = [
+    {name = "Posts", url = "/posts/", weight = 1},
+    {name = "Now", url = "/now", weight = 3},
+  ]

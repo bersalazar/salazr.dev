@@ -1,10 +1,10 @@
 ---
 author: "Bernardo"
-title: "Emoji Support"
+title: "We need to talk about the elephant in the room"
 date: "2019-02-05"
 description: "Guide to emoji usage in Hugo"
 tags: [
-    "emoji",
+    "best-of",
 ]
 ---
 

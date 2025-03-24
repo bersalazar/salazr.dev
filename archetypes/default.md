@@ -1,5 +1,6 @@
 +++
-date = '{{ .Date }}'
-draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+Description = ""
+Tags = ["Development", "golang"]
+Categories = ["Development", "GoLang"]
+menu = "main"
 +++

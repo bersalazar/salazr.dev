@@ -15,5 +15,26 @@
       <guid>http://localhost:1313/posts/example/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>We need to talk about the elephant in the room</title>
+      <link>http://localhost:1313/posts/another-post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/another-post/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why are they open if they are closed?</title>
+      <link>http://localhost:1313/posts/e/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/e/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;p&gt;Building a internal tools as a site reliability engineer at &lt;a href=&#34;https://weareadaptive.com&#34;&gt;Adaptive Consulting&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.thecrag.com/climber/bersalazar&#34;&gt;Rock climbing&lt;/a&gt; all around beautiful Catalonia with my wife.&lt;/p&gt;&#xA;&lt;p&gt;Making music and wrapping up production for &lt;a href=&#34;https://instagram.com/chitilapili&#34;&gt;chitilapili&amp;rsquo;s&lt;/a&gt; debut album.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

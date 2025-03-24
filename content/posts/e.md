@@ -1,6 +1,6 @@
 ---
 author: "Bernardo"
-title: "Emoji Support"
+title: "Why are they open if they are closed?"
 date: "2019-02-05"
 description: "Guide to emoji usage in Hugo"
 tags: [

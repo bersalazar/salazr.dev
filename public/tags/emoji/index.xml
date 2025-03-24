@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/example/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Why are they open if they are closed?</title>
+      <link>http://localhost:1313/posts/e/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/e/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
