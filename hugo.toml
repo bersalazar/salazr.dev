@@ -11,6 +11,6 @@ title = "BERNARDO SALAZAR"
 
 [menus]
   main = [
-    {name = "Posts", url = "/posts/", weight = 1},
-    {name = "Now", url = "/now", weight = 3},
+    {name = "Posts", url = "/posts", weight = 1},
+    {name = "About", url = "/about", weight = 2},
   ]

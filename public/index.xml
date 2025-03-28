@@ -30,11 +30,11 @@
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Now</title>
-      <link>http://localhost:1313/now/</link>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/now/</guid>
-      <description>&lt;p&gt;Building a internal tools as a site reliability engineer at &lt;a href=&#34;https://weareadaptive.com&#34;&gt;Adaptive Consulting&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.thecrag.com/climber/bersalazar&#34;&gt;Rock climbing&lt;/a&gt; all around beautiful Catalonia with my wife.&lt;/p&gt;&#xA;&lt;p&gt;Making music and wrapping up production for &lt;a href=&#34;https://instagram.com/chitilapili&#34;&gt;chitilapili&amp;rsquo;s&lt;/a&gt; debut album.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve spent the last 15 years working with software, either as a consultant or as a developer.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I&amp;rsquo;m a site reliability engineer at &lt;a href=&#34;https://weareadaptive.com&#34;&gt;Adaptive Consulting&lt;/a&gt;, mainly focusing on building internal tools to manage cloud infrastructure and ops.&lt;/p&gt;&#xA;&lt;p&gt;I enjoy &lt;a href=&#34;https://lintr.ee/berniroco&#34;&gt;making music&lt;/a&gt; at home, &lt;a href=&#34;https://www.thecrag.com/climber/bersalazar&#34;&gt;rock climbing&lt;/a&gt; all over Europe and &lt;a href=&#34;https://goodreads.com/bersalazar&#34;&gt;reading&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;write about all the different personas I develop:&lt;/p&gt;&#xA;&lt;p&gt;be open, honest.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;software engineer, as bersalazar&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;musician, as berni roco&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;climber, as bernieclimbs&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;philosopher, as sinkingstone. Reference to Goodreads, Letterboxd and sinkingstone.com&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
