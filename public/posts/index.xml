@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BERNARDO SALAZAR</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://salazr.netlify.app/posts/</link>
     <description>Recent content in Posts on BERNARDO SALAZAR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://salazr.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/posts/example/</link>
+      <link>https://salazr.netlify.app/posts/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/example/</guid>
+      <guid>https://salazr.netlify.app/posts/example/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>We need to talk about the elephant in the room</title>
-      <link>http://localhost:1313/posts/another-post/</link>
+      <link>https://salazr.netlify.app/posts/another-post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/another-post/</guid>
+      <guid>https://salazr.netlify.app/posts/another-post/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why are they open if they are closed?</title>
-      <link>http://localhost:1313/posts/e/</link>
+      <link>https://salazr.netlify.app/posts/e/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/e/</guid>
+      <guid>https://salazr.netlify.app/posts/e/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>
