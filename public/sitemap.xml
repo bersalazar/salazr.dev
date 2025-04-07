@@ -2,32 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://salazr.netlify.app/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salazr.netlify.app/tags/best-of/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salazr.netlify.app/tags/emoji/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salazr.netlify.app/posts/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salazr.netlify.app/posts/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salazr.netlify.app/tags/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salazr.netlify.app/posts/another-post/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://salazr.netlify.app/posts/e/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://salazr.netlify.app/about/</loc>
   </url><url>
+    <loc>https://salazr.netlify.app/home/</loc>
+  </url><url>
+    <loc>https://salazr.netlify.app/</loc>
+  </url><url>
     <loc>https://salazr.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://salazr.netlify.app/tags/</loc>
   </url>
 </urlset>

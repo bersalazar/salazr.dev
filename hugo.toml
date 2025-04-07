@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "BERNARDO SALAZAR"
 
 [params]
-  description = "Software Engineer"
+  description = "A house with many doors and windows."
 
 [author]
     name = "Bernardo Salazar"
@@ -11,6 +11,6 @@ title = "BERNARDO SALAZAR"
 
 [menus]
   main = [
-    {name = "Posts", url = "/posts", weight = 1},
-    {name = "About", url = "/about", weight = 2},
+    # {name = "Posts", url = "/posts", weight = 1},
+    # {name = "About", url = "/about", weight = 2},
   ]
