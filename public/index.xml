@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BERNARDO SALAZAR</title>
-    <link>https://salazr.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on BERNARDO SALAZAR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://salazr.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://salazr.netlify.app/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://salazr.netlify.app/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently part of &lt;a href=&#34;https://weareadaptive.com&#34;&gt;Adaptive Consulting&lt;/a&gt; where I work as a site reliability engineer, building tools to manage cloud infrastructure and apps.&lt;/p&gt;&#xA;&lt;p&gt;All of us have multiple personas based on our interests.&#xA;Mine are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://linktr.ee/berniroco&#34;&gt;Making music and collaborating with friends&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Travelling all around Catalunya (and sometimes Europe) with my wife,&#xA;looking for &lt;a href=&#34;https://thecrag.com/climber/bersalazar&#34;&gt;rock climbing&lt;/a&gt; crags.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Watching films, reading books, and &lt;a href=&#34;https://sinkingstone.com&#34;&gt;writing about it&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;And of course, &lt;a href=&#34;https://github.com/bersalazar&#34;&gt;writing code&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In this blog I put on the software engineer hat and write about stuff I learn and implement.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently part of &lt;a href=&#34;https://weareadaptive.com&#34;&gt;Adaptive Consulting&lt;/a&gt; where I work as a site reliability engineer, building tools to manage cloud infrastructure and apps.&lt;/p&gt;&#xA;&lt;p&gt;All of us have multiple personas based on our interests.&#xA;Mine are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://linktr.ee/berniroco&#34;&gt;Making music and collaborating with friends&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Travelling all around Catalunya (and sometimes Europe) with my wife,&#xA;looking for &lt;a href=&#34;https://thecrag.com/climber/bersalazar&#34;&gt;rock climbing&lt;/a&gt; crags.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Watching films, reading books, and &lt;a href=&#34;https://sinkingstone.com&#34;&gt;writing about it&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;And of course, &lt;a href=&#34;https://github.com/bersalazar&#34;&gt;writing code&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;My hope is to, some day, make all of these interests work together and create something unique.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://salazr.netlify.app/home/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://salazr.netlify.app/home/</guid>
+      <guid>http://localhost:1313/home/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m currently part of &lt;a href=&#34;https://weareadaptive.com&#34;&gt;Adaptive Consulting&lt;/a&gt; where I work as a site reliability engineer, building tools to manage cloud infrastructure and apps.&lt;/p&gt;&#xA;&lt;p&gt;All of us have multiple personas based on our interests.&#xA;Mine are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://linktr.ee/berniroco&#34;&gt;Making music and collaborating with friends&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Travelling all around Catalunya (and sometimes Europe) with my wife,&#xA;looking for &lt;a href=&#34;https://thecrag.com/climber/bersalazar&#34;&gt;rock climbing&lt;/a&gt; crags.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Watching films, reading books, and &lt;a href=&#34;https://sinkingstone.com&#34;&gt;writing about it&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;And of course, &lt;a href=&#34;https://github.com/bersalazar&#34;&gt;writing code&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In this blog I put on the software engineer hat and write about stuff I learn and implement.&lt;/p&gt;</description>
     </item>
   </channel>

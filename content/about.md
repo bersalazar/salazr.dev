@@ -17,6 +17,6 @@ looking for [rock climbing](https://thecrag.com/climber/bersalazar) crags.
 
 - And of course, [writing code](https://github.com/bersalazar).
 
-In this blog I put on the software engineer hat and write about stuff I learn and implement.
+<!--In this blog, I put on the software engineer hat and write about stuff I learn and implement.-->
 
 My hope is to, some day, make all of these interests work together and create something unique.
