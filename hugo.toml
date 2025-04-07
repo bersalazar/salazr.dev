@@ -1,17 +1,17 @@
 baseURL = "https://salazr.dev"
 languageCode = "en-us"
-title = "BERNARDO SALAZAR"
+title = "salazr.dev"
 
 [params]
   description = "A house with many doors and windows."
+  name = "BERNARDO SALAZAR"
 
 [author]
     name = "Bernardo Salazar"
     homepage = "http://salazr.dev"
-
 [menus]
   main = [
-    # uncomment when I have posts
     # {name = "Posts", url = "/posts", weight = 1},
-    # {name = "About", url = "/about", weight = 2},
+    # {name = "Experience", url = "/xp", weight = 2},
+    # {name = "About me", url = "/about", weight = 3},
   ]
