@@ -3,7 +3,7 @@ title: About me
 layout: about
 ---
 
-I'm currently part of [Adaptive Consulting](https://weareadaptive.com) where I work as a site reliability engineer, building tools to manage cloud infrastructure and apps.
+I'm currently part of [Adaptive Consulting](https://weareadaptive.com) where I work as a site reliability engineer, building tools to manage cloud infrastructure and operating highly performant trading technology.
 
 All of us have [multiple personas](https://sive.rs/dw) based on our interests.
 Mine are:
