@@ -1,4 +1,4 @@
-baseURL = "https://salazr.netlify.app"
+baseURL = "https://salazr.dev"
 languageCode = "en-us"
 title = "BERNARDO SALAZAR"
 
@@ -7,10 +7,11 @@ title = "BERNARDO SALAZAR"
 
 [author]
     name = "Bernardo Salazar"
-    homepage = "http://salazr.co"
+    homepage = "http://salazr.dev"
 
 [menus]
   main = [
+    # uncomment when I have posts
     # {name = "Posts", url = "/posts", weight = 1},
     # {name = "About", url = "/about", weight = 2},
   ]

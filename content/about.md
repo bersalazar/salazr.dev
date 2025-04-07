@@ -5,7 +5,7 @@ layout: about
 
 I'm currently part of [Adaptive Consulting](https://weareadaptive.com) where I work as a site reliability engineer, building tools to manage cloud infrastructure and apps.
 
-All of us have multiple personas based on our interests.
+All of us have [multiple personas](https://sive.rs/dw) based on our interests.
 Mine are:
 
 - [Making music and collaborating with friends](https://linktr.ee/berniroco).
@@ -18,5 +18,6 @@ looking for [rock climbing](https://thecrag.com/climber/bersalazar) crags.
 - And of course, [writing code](https://github.com/bersalazar).
 
 <!--In this blog, I put on the software engineer hat and write about stuff I learn and implement.-->
+
 
 My hope is to, some day, make all of these interests work together and create something unique.
