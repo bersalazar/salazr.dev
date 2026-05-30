@@ -1,0 +1,17 @@
+{{ define "main" -}}
+<div class="post">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <ol class="timeline">
+    {{ range .Params.jobs }}
+    <li class="timeline-item">
+      <p class="timeline-period">{{ .period }}</p>
+      <h2 class="timeline-role">{{ .role }}</h2>
+      <p class="timeline-company">{{ .company }}{{ with .location }} &middot; {{ . }}{{ end }}</p>
+      {{ with .summary }}<p class="timeline-summary">{{ . }}</p>{{ end }}
+      {{ with .tech }}<p class="timeline-tech">{{ delimit . " · " }}</p>{{ end }}
+    </li>
+    {{ end }}
+  </ol>
+</div>
+{{- end }}

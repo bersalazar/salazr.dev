@@ -1,85 +1,41 @@
 ---
 title: Experience
-layout: about
-draft: true
+layout: xp
+jobs:
+  - company: Adaptive Consulting
+    role: Senior Site Reliability Engineer
+    period: Feb 2021 — Present
+    location: Barcelona, Spain
+    summary: Consulting as a cloud-native expert on highly-performant, secure solutions for capital markets — leading cloud-adoption tooling, and engineering infrastructure for a large FOREX exchange and a cryptocurrency exchange.
+    tech: [Kubernetes, Helm, Docker, AWS, Terraform, Python, JavaScript, GitHub Actions, Jenkins]
+  - company: Derivco Sports
+    role: DevOps Engineer
+    period: Aug 2019 — Feb 2021
+    location: Barcelona, Spain
+    summary: Automated provisioning and configuration management for the full sportsbook platform across test and development environments, and led an internal middleware integrating company-wide delivery management.
+    tech: [Azure, Ansible, Terraform, RHEL/CentOS, Docker, GitLab CI, Azure DevOps, Python, Flask]
+  - company: Adaptive Consulting
+    role: DevOps Engineer
+    period: Apr 2017 — Aug 2019
+    location: Barcelona, Spain
+    summary: Built and maintained site-reliability solutions for a large commodities trading and risk-management (CTRM) platform — including a tailored process-orchestration tool, application monitoring, and release engineering.
+    tech: [AWS, Azure, .NET (C#), Nomad, Consul, PowerShell, Bash, Docker]
+  - company: Tek3
+    role: DevOps Engineer & Co-Founder
+    period: Oct 2014 — Apr 2017
+    location: Barcelona, Spain
+    summary: Built systems-reliability solutions for integrated mobile and web platforms with a strong focus on scalable performance, covering infrastructure design, CI/CD, agile delivery, and client relationships.
+    tech: [AWS, Node.js, AngularJS, iOS/Android, MongoDB, Git, JIRA]
+  - company: Clariba
+    role: Business Intelligence Consultant
+    period: Dec 2014 — Aug 2015
+    location: Barcelona, Spain
+    summary: Developed SAP BusinessObjects back- and front-end components for a real-estate project — metalayer development, data-model validation, and Web Intelligence reporting.
+    tech: [SAP BusinessObjects, Universe Design Tool, Web Intelligence]
+  - company: ENIAC
+    role: Software Consultant
+    period: Feb 2010 — Feb 2014
+    location: Caracas, Venezuela
+    summary: Provided data-analysis and audit software support for finance, insurance, and government clients across LATAM and the Caribbean — building tailored solutions, leading on-site implementations, and instructing certified courses.
+    tech: [SQL Server, VB .NET, ACL, AuditExchange, Thomson Reuters AutoAudit]
 ---
-
-### ADAPTIVE CONSULTING — Senior Site Reliability Engineer
-
-### FEBRUARY 2021 - PRESENT. BARCELONA, SPAIN
-
-Currently consulting as a cloud-native expert for various projects involving highly-performant, secure solutions for capital markets.
-
-### RESPONSIBILITIES
-
-Platform engineering: part of the team leading the company’s cloud adoption framework, enabling transformation into Kubernetes, by building an opinionated platform. It provides automation tooling for developers, performance tuning, and deployment process standardization across multiple projects, and multiple clouds.
-Technologies: Kubernetes, Helm, Docker, Bash, AWS, Terraform, Github Actions.
-
-Client project: consult cloud infrastructure engineering for a large FOREX exchange, including architecture, continuous deployment, authentication/authorization flows, release management and production support, leveraging AWS and multiple tools and languages. Mentor juniors and new-joiners.
-Technologies: AWS, Terraform, Docker, Python, Javascript, AWS Lambda, Jenkins.
-
-Client project: build and operate an in-house tool for infrastructure provisioning and configuration management for a cryptocurrency exchange, leveraging AWS and Kubernetes.
-Technologies: AWS, Kubernetes, Docker, Javascript, Bash, Github Actions.
-
-### DERIVCO SPORTS — DevOps Engineer
-
-### AUGUST 2019 - FEBRUARY 2021. BARCELONA, SPAIN
-
-Automated deployment and configuration management of core sports betting platform services for test centers and development environments.
-
-### RESPONSIBILITIES
-
-Automate provisioning and configuration management of multiple instances of full sportsbook platform leveraging Azure cloud and infrastructure-as-code.
-Technologies: Azure, Ansible, Terraform, RHEL/CentOS, Docker, Gitlab CI, Azure DevOps.
-Lead implementation of an internal middleware that integrates applications involved in company-wide product delivery management and operational efficiency.
-Technologies: Python, Flask, Docker.
-
-### ADAPTIVE CONSULTING — DevOps Engineer
-### APRIL 2017 - AUGUST 2019. BARCELONA, SPAIN
-
-Built and maintained site reliability solutions for a large commodities trading and risk management (CTRM) platform.
-
-### RESPONSIBILITIES
-
-Build a tailored process orchestration tool for development and production environment deployments using .NET(C#), Nomad, Consul and Azure.
-Implement application monitoring and Linux/Windows systems administration.
-Lead continuous deployment and release process engineering.
-Technologies: AWS, Azure, .NET (C#), PowerShell, Bash, Docker.
-
-### TEK3 — DevOps Engineer & Co-Founder
-### OCTOBER 2014 - APRIL 2017. BARCELONA, SPAIN.
-
-Built systems reliability solutions for multiple integrated mobile and web app platforms, with strong focus on scalable performance.
-
-### RESPONSIBILITIES
-
-Server-side systems administration, infrastructure design.
-Continuous integration and deployment.
-Agile project management for web, backend and mobile applications.
-Account management and client relationships.
-TECHNOLOGIES: AWS, Node.js, AngularJS, iOS/Android, MongoDB, Git, JIRA.
-
-### CLARIBA — Business Intelligence Consultant
-
-### DECEMBER 2014 - AUGUST 2015. BARCELONA, SPAIN.
-
-Developed SAP Business Objects back and front-end components for a real estate project.
-
-### RESPONSIBILITIES
-
-Responsible for the project's metalayer development and maintenance using Universe Design Tool. Data model analysis and validation.
-Design, testing and deployment of Web Intelligence reports and Exploration Views.
-
-### ENIAC — Software Consultant
-### FEBRUARY 2010 - FEBRUARY 2014. CARACAS, VENEZUELA.
-
-Technical and functional Data Analysis and Audit software support in tools for finance, insurance and government entities in LATAM and Caribbean clients.
-
-### RESPONSIBILITIES
-
-Maintain tailored client solutions using VB .NET and SQL Server.
-Instruct certified ACL and AutoAudit courses.
-Provide technical and functional end-user support for CAATT tools.
-Lead client implementation on-site.
-
-### TECHNOLOGIES: SQL Server, VB .NET, SQL Server, ACL, AuditExchange and Thomson Reuters AutoAudit

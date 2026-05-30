@@ -1,0 +1,76 @@
+/*
+ * Timeline
+ *
+ * Minimalist vertical timeline for the Experience page.
+ */
+
+.timeline {
+  list-style: none;
+  margin: 2.5rem 0 0;
+  padding: 0;
+  position: relative;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  bottom: 0.5rem;
+  width: 1px;
+  background-color: var(--border);
+}
+
+.timeline-item {
+  position: relative;
+  padding-left: 1.75rem;
+  padding-bottom: 2.5rem;
+}
+
+.timeline-item:last-child {
+  padding-bottom: 0;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -4px;
+  top: 0.55rem;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background-color: var(--background);
+  border: 1px solid var(--hyperlink);
+}
+
+.timeline-period {
+  margin: 0;
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--words);
+  opacity: 0.7;
+}
+
+.timeline-role {
+  margin: 0.25rem 0 0;
+  font-size: 1.1rem;
+}
+
+.timeline-company {
+  margin: 0.15rem 0 0;
+  color: var(--words);
+  font-size: 0.95rem;
+}
+
+.timeline-summary {
+  margin: 0.65rem 0 0;
+}
+
+.timeline-tech {
+  margin: 0.6rem 0 0;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  color: var(--words);
+  opacity: 0.8;
+}
